@@ -2,3 +2,4 @@ ds_course
 .bashrc
 .gitconfig
 venv_shortcuts.sh
+.bash_profile
